@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <errno.h>
-#include "struct.h"
-#include "manager_functions.h"
+#include "struct.c"
+#include "manager_functions.c"
 
 
 
@@ -47,5 +47,7 @@ int main(){
     free_maillon(liste);
 
     afficher(liste, 1);
+
+    return 0;
 
 }

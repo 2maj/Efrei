@@ -1,3 +1,4 @@
+#include "headers_functions.h"
 maillon_t* init(maillon_t *pliste){
     pliste = NULL;
     printf("list initialised \n");
