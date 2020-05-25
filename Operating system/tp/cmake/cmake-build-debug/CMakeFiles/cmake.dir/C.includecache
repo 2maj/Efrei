@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moussa_24/Efrei/Operating system/tp/cmake/gestion_tableaux.h
+
+/home/moussa_24/Efrei/Operating system/tp/cmake/main.c
+stdio.h
+-
+gestion_tableaux.h
+/home/moussa_24/Efrei/Operating system/tp/cmake/gestion_tableaux.h
+

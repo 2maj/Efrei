@@ -1,0 +1,3 @@
+/home/moussa_24/Efrei/Operating system/tp/cmake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/moussa_24/Efrei/Operating system/tp/cmake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/moussa_24/Efrei/Operating system/tp/cmake/cmake-build-debug/CMakeFiles/cmake.dir

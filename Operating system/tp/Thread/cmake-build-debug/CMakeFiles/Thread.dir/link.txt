@@ -1,0 +1,1 @@
+/usr/bin/gcc-8 -g   CMakeFiles/Thread.dir/main.c.o  -o Thread 

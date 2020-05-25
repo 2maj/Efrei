@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/cmake.dir/main.c.o CMakeFiles/cmake.dir/gestion_tableaux.c.o  -o cmake 

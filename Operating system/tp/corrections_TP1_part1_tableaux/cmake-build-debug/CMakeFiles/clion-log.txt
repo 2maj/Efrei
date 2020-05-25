@@ -1,0 +1,4 @@
+/home/moussa_24/clion-2020.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc-8 -G "CodeBlocks - Unix Makefiles" "/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/cmake-build-debug

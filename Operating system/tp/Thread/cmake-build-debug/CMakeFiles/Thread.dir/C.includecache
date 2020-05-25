@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moussa_24/Efrei/Operating system/tp/Thread/main.c
+sys/types.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

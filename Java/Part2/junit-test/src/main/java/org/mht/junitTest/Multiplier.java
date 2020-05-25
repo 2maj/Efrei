@@ -1,7 +1,8 @@
-package org.mht.junit-test;
+package org.mht.junitTest;
 
 public class Multiplier {
-    public int process(int a, int b){
-        return a*b;
+    Addition addition = new Addition();
+    public int calcul(int a, int b){
+        return addition.process_multi(a,b);
     }
 }

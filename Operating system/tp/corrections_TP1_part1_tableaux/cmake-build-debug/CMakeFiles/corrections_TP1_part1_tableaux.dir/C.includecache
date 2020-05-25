@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/gestion_matrice.c
+stdio.h
+-
+stdlib.h
+-
+gestion_matrice.h
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/gestion_matrice.h
+gestion_tableaux.h
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/gestion_tableaux.h
+my_struct.h
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/my_struct.h
+
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/gestion_matrice.h
+my_struct.h
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/my_struct.h
+
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/gestion_tableaux.h
+
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/my_struct.h
+
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/test_gestion_tableaux.c
+stdio.h
+-
+gestion_tableaux.h
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/gestion_tableaux.h
+gestion_matrice.h
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/gestion_matrice.h
+my_struct.h
+/home/moussa_24/Efrei/Operating system/tp/corrections_TP1_part1_tableaux/my_struct.h
+
